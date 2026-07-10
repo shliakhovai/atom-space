@@ -12,8 +12,10 @@ project/
 │   └── storage.py
 ├── data/
 ├── .env.example
-└── pyproject.toml
+└── setup.cfg
+└── setup.py
 ```
++ `pre-commit` hooks.
 
 ## Спільні вимоги
 - Python 3.10+ та `python-telegram-bot`;
