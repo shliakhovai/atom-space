@@ -1,0 +1,38 @@
+[
+  {
+    "question": "Яке ключове слово створює функцію в Python?",
+    "options": ["func", "def", "function", "method"],
+    "answer": "def",
+    "explanation": "Функцію оголошують за допомогою def."
+  },
+  {
+    "question": "Який тип даних зберігає True або False?",
+    "options": ["str", "int", "bool", "list"],
+    "answer": "bool",
+    "explanation": "Логічний тип у Python називається bool."
+  },
+  {
+    "question": "Який індекс має перший елемент списку?",
+    "options": ["0", "1", "-1", "first"],
+    "answer": "0",
+    "explanation": "Індексація списків починається з нуля."
+  },
+  {
+    "question": "Яка функція повертає довжину списку?",
+    "options": ["size()", "count()", "length()", "len()"],
+    "answer": "len()",
+    "explanation": "Для довжини колекції використовують len()."
+  },
+  {
+    "question": "Яка структура зберігає пари ключ-значення?",
+    "options": ["list", "tuple", "dict", "set"],
+    "answer": "dict",
+    "explanation": "Словник dict складається з ключів і значень."
+  },
+  {
+    "question": "Що повертає input()?",
+    "options": ["int", "str", "bool", "list"],
+    "answer": "str",
+    "explanation": "Результат input() є рядком."
+  }
+]
